@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Mesum</h1>
-<h3 align="center">A passionate frontend developer from {010001}</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p>Greetings 🙋! <br/>
 I'm a seasoned web developer with a deep passion for crafting exceptional user experiences through cutting-edge front-end development. With my expertise in ReactJS, Tailwind, Html, CSS, Bootstrap, etc. I bring your digital visions to life by creating captivating and interactive websites.
