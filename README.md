@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohd Mesum</h1>
 <h3 align="center">A passionate frontend developer from {010001}</h3>
 
-<p>Want to work with a skilled web developer and looking for a web developer or designer? I am a web developer/designer who works with clients and transforms their great ideas into nice-looking websites. 
+<p>Greetings 🙋! <br/>
+I'm a seasoned web developer with a deep passion for crafting exceptional user experiences through cutting-edge front-end development. With my expertise in ReactJS, Tailwind, Html, CSS, Bootstrap, etc. I bring your digital visions to life by creating captivating and interactive websites.
   <ul>
     <h4>My Skills: </h4>
     👉 React, ( Typescript, Next js ) 
@@ -13,8 +14,6 @@
 </p>
 
 <p align="left"> <a href="https://twitter.com/mohd_mesum" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_mesum?logo=twitter&style=for-the-badge" alt="mohd_mesum" /></a> </p>
-
-- 🌱 I’m currently learning **Blockchain Development**
 
 - 📫 How to reach me **me.m.mesum@gmail.com**
 
