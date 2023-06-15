@@ -3,17 +3,21 @@
 
 <p>Greetings 🙋! <br/>
 I'm a seasoned web developer with a deep passion for crafting exceptional user experiences through cutting-edge front-end development. With my expertise in ReactJS, Tailwind, Html, CSS, Bootstrap, etc. I bring your digital visions to life by creating captivating and interactive websites.
-  <ul>
+  
+   
+</p>
+
+<ul>
     <h4>My Skills: </h4>
     👉 React, ( Typescript, Next js ) 
     👉 Tailwind, Material UI, Bootstrap 
     👉 JavaScript 
     👉 HTML5, CSS, SCSS, SASS 
     👉 Responsive Website Design
-    <ul/>
-   
-</p>
-
+  <ul/>
+  
+<hr />
+  
 <ul>
      <h4>My main strengths are:</h4>
       ★ Extensive experience in front-end development with a focus on ReactJS  <br />
@@ -22,8 +26,13 @@ I'm a seasoned web developer with a deep passion for crafting exceptional user e
       ★ Skilled in implementing RESTful APIs and integrating with back-end systems <br />
       ★ Diligent in ensuring cross-browser compatibility and optimal website performance <br />
       ★ Effective communicator and collaborator, dedicated to understanding your project requirements and delivering results that exceed        expectations <br />
-     </ul>
 
+</ul>
+  
+  
+<hr/>
+  
+  
 <p align="left"> <a href="https://twitter.com/mohd_mesum" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_mesum?logo=twitter&style=for-the-badge" alt="mohd_mesum" /></a> </p>
 
 - 📫 How to reach me **me.m.mesum@gmail.com**
