@@ -11,7 +11,10 @@ I'm a seasoned web developer with a deep passion for crafting exceptional user e
     👉 HTML5, CSS, SCSS, SASS 
     👉 Responsive Website Design
     <ul/>
-   <ul>
+   
+</p>
+
+<ul>
      <h4>My main strengths are:</h4>
       ★ Extensive experience in front-end development with a focus on ReactJS  <br />
       ★ Proficient in HTML5, CSS3, JavaScript, and modern front-end frameworks <br />
@@ -20,7 +23,6 @@ I'm a seasoned web developer with a deep passion for crafting exceptional user e
       ★ Diligent in ensuring cross-browser compatibility and optimal website performance <br />
       ★ Effective communicator and collaborator, dedicated to understanding your project requirements and delivering results that exceed        expectations <br />
      </ul>
-</p>
 
 <p align="left"> <a href="https://twitter.com/mohd_mesum" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_mesum?logo=twitter&style=for-the-badge" alt="mohd_mesum" /></a> </p>
 
